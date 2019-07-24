@@ -1,12 +1,13 @@
-package com.atguigu.gmall0218.usermanage.bean;
+package com.atguigu.gmall0218.bean.user;
 
 import lombok.Data;
 
 import javax.persistence.Column;
 import javax.persistence.Id;
+import java.io.Serializable;
 
 @Data
-public class UserInfo {
+public class UserInfo implements Serializable{
     @Id
     @Column
     private String id;
