@@ -1,6 +1,6 @@
 package com.atguigu.gmall0218.service;
 
-import com.atguigu.gmall0218.bean.user.UserAddress;
+import com.atguigu.gmall0218.bean.UserAddress;
 
 import java.util.List;
 

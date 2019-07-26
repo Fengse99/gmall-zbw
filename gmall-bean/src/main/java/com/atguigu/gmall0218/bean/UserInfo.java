@@ -1,4 +1,4 @@
-package com.atguigu.gmall0218.bean.user;
+package com.atguigu.gmall0218.bean;
 
 import lombok.Data;
 
